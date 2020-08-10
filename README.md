@@ -6,15 +6,13 @@
 
 > Background in Customer Support, I have travelled all over the world for Broadcasting equipment's commissioning, training and troubleshooting.
 
-<!--
-**Breno-do-val/breno-do-val** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+````
 - 🔭 I’m currently working on front-end for embedded applications using AngularJS, AdminLTE.
 - 🌱 I’m currently focused on Cloud Computing solutions and Mobile development.
 - 👯 I’m looking to collaborate on Web and Mobile applications using Cloud solutions.
 - 💬 Talk to me about economy and technology.
 - ⚡ Fun fact: I have taken Steve Jobs' phrase "Stay hungry, stay foolish" as a precept.
--->
+````
 
 ### Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
