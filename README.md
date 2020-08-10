@@ -3,7 +3,7 @@
 
 ### Hi there 👋 I'm Breno Ribeiro do Val
 > Software developer passionate about technologies, looking to expand my experience in Kotlin, Java, Javascrit and its frameworks.
-Background in Customer Support, I have travelled all over the world for Broadcasting equipment's commissioning, training and troubleshooting.
+> Background in Customer Support, I have travelled all over the world for Broadcasting equipment's commissioning, training and troubleshooting.
 
 <!--
 **Breno-do-val/breno-do-val** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,5 +37,7 @@ Background in Customer Support, I have travelled all over the world for Broadcas
 
 <p align="center">
     Right is right even if no one is doing it; wrong is wrong even if everyone is doing it.
-    > Saint Augustine
+    <blockquote>
+        <p>Saint Augustine</p>
+    </blockquote>
 </p>
