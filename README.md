@@ -2,7 +2,8 @@
 ![ViewCount](https://views.whatilearened.today/views/github/breno-do-val/breno-do-val.svg?cache=remove)
 
 ### Hi there 👋 I'm Breno Ribeiro do Val
-Software developer passionate about technologies, looking to expand my experience in Kotlin, Java, Javascrit and its frameworks.
+> Software developer passionate about technologies, looking to expand my experience in Kotlin, Java, Javascrit and its frameworks.
+Background in Customer Support, I have travelled all over the world for Broadcasting equipment's commissioning, training and troubleshooting.
 
 <!--
 **Breno-do-val/breno-do-val** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,4 +31,11 @@ Software developer passionate about technologies, looking to expand my experienc
 <p align="center">
     <a href="https://www.linkedin.com/in/breno-do-val-8a9149195/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
     <a href="mailto:brenorvale@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
-    <a href="https://twitter.com/Thomas_George_T"><img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
+</p>
+
+<br/>
+
+<p align="center">
+    Right is right even if no one is doing it; wrong is wrong even if everyone is doing it.
+    > Saint Augustine
+</p>
