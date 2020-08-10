@@ -1,8 +1,9 @@
-![GitHub](https://img.shields.io/github/license/breno-do-val/breno-do-val?style=flat)
+
 ![ViewCount](https://views.whatilearened.today/views/github/breno-do-val/breno-do-val.svg?cache=remove)
 
 ### Hi there 👋 I'm Breno Ribeiro do Val
 > Software developer passionate about technologies, looking to expand my experience in Kotlin, Java, Javascrit and its frameworks.
+
 > Background in Customer Support, I have travelled all over the world for Broadcasting equipment's commissioning, training and troubleshooting.
 
 <!--
@@ -37,7 +38,5 @@
 
 <p align="center">
     Right is right even if no one is doing it; wrong is wrong even if everyone is doing it.
-    <blockquote>
-        <p>Saint Augustine</p>
-    </blockquote>
 </p>
+<p align="center"><b>Saint Augustine</b></p>
