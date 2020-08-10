@@ -9,7 +9,7 @@ Software developer passionate about technologies, looking to expand my experienc
 
 - 🔭 I’m currently working on front-end for embedded applications using AngularJS, AdminLTE.
 - 🌱 I’m currently focused on Cloud Computing solutions and Mobile development.
-- 👯 I’m looking to collaborate on Web and Mobile applications using Cloud.
+- 👯 I’m looking to collaborate on Web and Mobile applications using Cloud solutions.
 - 💬 Talk to me about economy and technology.
 - ⚡ Fun fact: I have taken Steve Jobs' phrase "Stay hungry, stay foolish" as a precept.
 -->
@@ -28,6 +28,6 @@ Software developer passionate about technologies, looking to expand my experienc
 #### Social Media:
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/thomasgeorgethomas/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
-    <a href="mailto:thomasgeorgethomas@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
+    <a href="https://www.linkedin.com/in/breno-do-val-8a9149195/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
+    <a href="mailto:brenorvale@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
     <a href="https://twitter.com/Thomas_George_T"><img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
