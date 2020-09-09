@@ -7,7 +7,7 @@
 > Background in Customer Support, I have travelled all over the world for Broadcasting equipment's commissioning, training and troubleshooting.
 
 ````
-- 🔭 I’m currently working on front-end for embedded applications using AngularJS, AdminLTE.
+- 🔭 I’m currently working on embedded applications using AngularJS, JAVA and C.
 - 🌱 I’m currently focused on Cloud Computing solutions and Mobile development.
 - 👯 I’m looking to collaborate on Web and Mobile applications using Cloud solutions.
 - 💬 Talk to me about economy and technology.
