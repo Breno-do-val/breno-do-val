@@ -6,7 +6,7 @@
 
 > In 2019, I have decided to change my career path, focusing in software development. Since then, I have been always looking for new challenges and get to knowing the buzzling technologies.
 
-> Background in Customer Support, I have travelled all over the world for Broadcasting equipment's commissioning, training and troubleshooting.
+> Background in Customer Support, I travelled all over the world for Broadcasting equipment commissioning, training and troubleshooting.
 
 ````
 - 🔭 I’m currently working on embedded applications using AngularJS, JAVA and C.
@@ -16,7 +16,8 @@
 - ⚡ Fun fact: I have taken Steve Jobs' phrase "Stay hungry, stay foolish" as a precept.
 ````
 
-### FOCUSED ON:
+#### FOCUSED ON:
+
 <code>
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
@@ -31,7 +32,8 @@
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 </code>
 
-### KNOWLEDGE IN:
+#### KNOWLEDGE IN:
+
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
