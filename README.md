@@ -2,7 +2,9 @@
 ![ViewCount](https://views.whatilearened.today/views/github/breno-do-val/breno-do-val.svg?cache=remove)
 
 ### Hello world 🌍! I'm Breno Ribeiro do Val
-> Software developer passionate about technologies, looking to expand my experience in Kotlin, Java, Javascrit and its frameworks.
+> Software developer passionate about technologies, looking to expand my experience in Node.js, as wells as Javascrit libraries and frameworks for backend and frontend applications.
+
+> In 2019, I have decided to change my career path, focusing in software development. Since then, I have been always looking for new challenges and get to knowing the buzzling technologies.
 
 > Background in Customer Support, I have travelled all over the world for Broadcasting equipment's commissioning, training and troubleshooting.
 
