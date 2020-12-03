@@ -10,13 +10,13 @@
 
 ````
 - 🔭 I’m currently working on embedded applications using AngularJS, JAVA and C.
-- 💯Focused on Cloud Computing solutions and API's development using Node.js.
+- 💯Focused on Cloud Computing solutions and APIs development using Node.js.
 - 🚀 Front-end using Angular, React and Mobile development using React Native.
 - 💬 Talk to me about economy and technology.
 - ⚡ Fun fact: I have taken Steve Jobs' phrase "Stay hungry, stay foolish" as a precept.
 ````
 
-#### FOCUSED ON:
+#### SKILLED IN:
 
 <code>
  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
@@ -43,7 +43,6 @@
 
 #### KNOWLEDGE IN:
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
