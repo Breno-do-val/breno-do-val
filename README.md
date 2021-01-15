@@ -9,10 +9,10 @@
 > Background in Customer Support, I have travelled all over the world for Broadcasting equipment commissioning, training and troubleshooting.
 
 ````
-- 🔭 I’m currently working on application using Angular 11.
+- 🔭 I’m currently working on application for personal loan using Angular 11.
 - 💯Focused on Cloud Computing solutions and APIs development using Node.js.
 - 🚀 Front-end using Angular, React and Mobile development using React Native, Kotin and Ionic.
-- 💬 Talk to me about economy and technology.
+- 💬 Talk to me about economy, technology and cookery.
 - ⚡ Fun fact: I have taken Steve Jobs' phrase "Stay hungry, stay foolish" as a precept.
 ````
 
