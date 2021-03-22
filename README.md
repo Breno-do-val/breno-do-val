@@ -1,6 +1,4 @@
 
-![ViewCount](https://views.whatilearened.today/views/github/breno-do-val/breno-do-val.svg?cache=remove)
-
 ### Hello world 🌍! I'm Breno Ribeiro do Val
 > A lifelong learner living a simple life, looking to expand my experience in microservices and serverless architectures using Node.js and its frameworks, as wells as Javascrit libraries and frameworks for frontend applications.
 
@@ -15,6 +13,11 @@
 - 💬 Talk to me about economy, technology and cookery.
 - ⚡ Fun fact: I have taken Steve Jobs' phrase "Stay hungry, stay foolish" as a precept.
 ````
+<br>
+<p align="center" box-shadow="none">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=breno-do-val&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=breno-do-val&layout=compact&langs_count=8"/>
+</p>
 
 #### SKILLED IN:
 
