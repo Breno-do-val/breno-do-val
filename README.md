@@ -8,7 +8,7 @@
 
 ````
 - 🔭 I’m currently working on application using React and Java.
-- 💯Focused on Cloud Computing solutions and APIs development using Node.js.
+- 💯 Focused on Cloud Computing solutions and APIs development using Node.js, Java.
 - 🚀 Front-end using Angular, React and Mobile development using React Native, Kotin and Ionic.
 - 💬 Talk to me about economy, technology and cookery.
 - ⚡ Fun fact: I have taken Steve Jobs' phrase "Stay hungry, stay foolish" as a precept.
