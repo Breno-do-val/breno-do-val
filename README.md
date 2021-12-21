@@ -1,15 +1,15 @@
 
 ### Hello world 🌍! I'm Breno Ribeiro do Val.
-> A lifelong learner living a simple life, looking to expand my experience in microservices and serverless architectures using Node.js and its frameworks, as wells as Javascrit libraries and frameworks for frontend applications.
+> A lifelong learner living a simple life, looking to expand my experience in microservices and serverless architectures using Node.js, Java and its frameworks, as wells as Javascrit libraries and frameworks for front-end applications.
 
-> In 2019, I have decided to change my career path, focusing on software development. Since then, I have been always looking for new challenges and get to knowing the buzzling technologies.
+> In 2018, I have decided to change my career path, focusing on software development. Since then, I have been always looking for new challenges and get to knowing the buzzling technologies.
 
 > Background in Customer Support, I have travelled all over the world for Broadcasting equipment commissioning, training and troubleshooting.
 
 ````
-- 🔭 I’m currently working on application using React and Java.
+- 🔭 I’m currently working on applications using React and Java.
 - 💯 Focused on Cloud Computing solutions and APIs development using Node.js, Java.
-- 🚀 Front-end using Angular, React and Mobile development using React Native, Kotin and Ionic.
+- 🚀 Front-end using Angular, React and Mobile development using React Native, Kotlin and Ionic.
 - 💬 Talk to me about economy, technology and cookery.
 - ⚡ Fun fact: I have taken Steve Jobs' phrase "Stay hungry, stay foolish" as a precept.
 ````
