@@ -7,8 +7,8 @@
 > Background in Customer Support, I have travelled all over the world for Broadcasting equipment commissioning, training and troubleshooting.
 
 ````
-- 🔭 I’m currently working on applications using React and Java.
-- 💯 Focused on Cloud Computing solutions and APIs development using Node.js, Java.
+- 🔭 I’m currently working on applications using ReactJS and Java.
+- 💯 Focused on Cloud Computing solutions and APIs development using Node.js and Java.
 - 🚀 Front-end using Angular, React and Mobile development using React Native, Kotlin and Ionic.
 - 💬 Talk to me about economy, technology and cookery.
 - ⚡ Fun fact: I have taken Steve Jobs' phrase "Stay hungry, stay foolish" as a precept.
